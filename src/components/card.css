@@ -1,0 +1,25 @@
+.card {
+    width: 200px;
+    
+}
+.card img{
+    width: 100%;
+}
+h3 {
+    padding: 20px 0;
+}
+.btn2 {
+    width: 200px;
+    color: white;
+    background-color: black;
+    padding: 5px 0;
+    border: none;
+    
+}
+.img {
+    background: #F5F5F5;
+    text-align: center;
+}
+p {
+    color: #DB4444;
+}

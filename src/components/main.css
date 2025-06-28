@@ -1,0 +1,18 @@
+.bg {
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+    padding: 50px 0;
+}
+.btn {
+    padding: 16px 48px;
+    border: 1px solid #00000080;
+    border-radius: 4px;
+    background-color: white;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
